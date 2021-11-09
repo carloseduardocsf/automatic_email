@@ -35,6 +35,3 @@ def enviar_email():
 
 
 enviar_email()
-
-
-
